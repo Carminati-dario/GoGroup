@@ -1,5 +1,5 @@
 # GoGroup
-Chat multiutente in Go basata su TCP per comunicazioni in tempo reale. Supporta utenti attivi e visualizzatori passivi (screen), permettendo la creazione di gruppi di discussione personalizzati. L'architettura client-server gestisce efficacemente connessioni simultanee, offrendo un sistema di messaggistica leggero e funzionale.
+GoGroup implementa una chat multiutente in Go basata su TCP per comunicazioni in tempo reale. Supporta utenti attivi e visualizzatori passivi (screen), permettendo la creazione di gruppi di discussione personalizzati. L'architettura client-server gestisce efficacemente connessioni simultanee, offrendo un sistema di messaggistica leggero e funzionale.
 ## Struttura del Progetto
 Il progetto è suddiviso in tre componenti principali:
 
